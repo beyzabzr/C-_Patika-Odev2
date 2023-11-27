@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\bin\Debug\net7.0\koleksiyonlar-soru-2.exe
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\bin\Debug\net7.0\koleksiyonlar-soru-2.deps.json
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\bin\Debug\net7.0\koleksiyonlar-soru-2.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\bin\Debug\net7.0\koleksiyonlar-soru-2.dll
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\bin\Debug\net7.0\koleksiyonlar-soru-2.pdb
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.dll
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\refint\koleksiyonlar-soru-2.dll
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.pdb
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\koleksiyonlar-soru-2.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\odev-2\koleksiyonlar-soru-2\obj\Debug\net7.0\ref\koleksiyonlar-soru-2.dll
